@@ -1,0 +1,4 @@
+Dawlance,LED,1103,275
+Dawlance,Refrigerator,428,107
+Haier,LED,1284,321
+Haier,Refrigerator,971,242
