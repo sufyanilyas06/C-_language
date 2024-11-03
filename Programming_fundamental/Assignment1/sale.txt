@@ -1,0 +1,4 @@
+Dawlance LED 355 210 312 226 
+Dawlance Refrigerator 102 96 106 124 
+Haier LED 212 310 336 426 
+Haier Refrigerator 199 210 264 298
